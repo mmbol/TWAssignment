@@ -13,9 +13,9 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 
 == Answer
 
-//Assumption: Prior to rearding about pull requests in particular, the audience has a basic understanding of the version control concept.
+//Assumption: Prior to rearding about pull requests, we assume the audience has a basic understanding of the version control concept (e.g. main & side branch usage).
 
-== Pull requests/merge requests
+== Pull requests / merge requests
 
 === Benefits
 Pull requests (also known as merge requests, depending on the version control software you're using) are a key element for tracking code changes and cultivating cooperation within a development team.
