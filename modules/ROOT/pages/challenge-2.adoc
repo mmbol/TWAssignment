@@ -13,7 +13,7 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 
 == Answer
 
-//Assumption: Prior to reading about pull requests, we assume the audience has a basic understanding of the version control concept (e.g. main & side branch usage).
+//Assumption: Prior to reading about pull requests in particular, we assume the audience already received a general overview of the version control concept from a previous section (e.g. the audience is now familiar with the main & side branch usage).
 
 === Pull requests / merge requests
 
