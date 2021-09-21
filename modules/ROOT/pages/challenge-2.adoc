@@ -13,4 +13,12 @@ Your audience is someone technical, but new to link:https://en.wikipedia.org/wik
 
 == Answer
 
-// your answer goes here
+== Pull requests/merge requests
+
+Pull requests (also known as merge requests, depending on the version control software you're using) are a key element for tracking code changes and cultivating cooperation within a development team.
+
+=== How it works
+* Let's say you've made a couple of changes to the code and you're now ready to submit your work to the main branch.
+* By adding a pull request in the system, you invite other team members to review your code changes and send you feedback.
+*Pull requests automatically show the differences between the already existing code and the one you've updated.
+*Once you address the feedback, you're now ready to merge your code to the main branch.
