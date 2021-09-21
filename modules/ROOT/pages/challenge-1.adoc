@@ -24,7 +24,7 @@ TIP: Keep the task concise. There's no need to over-complicate the instructions.
 
 == Answer
 
-== Changing the language on your Samsung Galaxy S10+ device
+=== Changing the language on your Samsung Galaxy S10+ device
 
 . Open the device.
 . Navigate to *Settings > General Management > Language*.
